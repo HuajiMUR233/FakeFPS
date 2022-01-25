@@ -14,7 +14,7 @@
 
   "environment": "client",
   "mixins": [
-    "modid.mixins.json"
+    "fakefps.mixins.json"
   ],
 
   "depends": {
